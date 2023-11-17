@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/demo_gh_build/static/css/main.4dd2ae3d.css",
+    "main.js": "/demo_gh_build/static/js/main.782216ff.js",
+    "static/js/787.128fc6e9.chunk.js": "/demo_gh_build/static/js/787.128fc6e9.chunk.js",
+    "static/media/100x100.jpg": "/demo_gh_build/static/media/100x100.04b50a493480c4a748d6.jpg",
+    "static/media/p1.png": "/demo_gh_build/static/media/p1.4c4a02ce93a542bb637e.png",
+    "static/media/postgresql.svg": "/demo_gh_build/static/media/postgresql.584cd1886d828768915937c35117bc3b.svg",
+    "static/media/react.svg": "/demo_gh_build/static/media/react.6db9d81f98d9c371121806123fb086a3.svg",
+    "static/media/node.svg": "/demo_gh_build/static/media/node.2c0fc1d3b8dace051f8031a9909f9f3a.svg",
+    "static/media/gh.svg": "/demo_gh_build/static/media/gh.4690c3ad833117ca489a72729fe92592.svg",
+    "static/media/github-svgrepo-com.svg": "/demo_gh_build/static/media/github-svgrepo-com.89798a70266b49c7b43ae11c662ea543.svg",
+    "static/media/js.svg": "/demo_gh_build/static/media/js.edbff727d69e58c303cc407f00e554f8.svg",
+    "static/media/openstack.svg": "/demo_gh_build/static/media/openstack.9fc3156257d08156d03ac8a1d22392cf.svg",
+    "static/media/linkedin.svg": "/demo_gh_build/static/media/linkedin.08c50a3371b7f1d63276026ce4ec4e53.svg",
+    "index.html": "/demo_gh_build/index.html",
+    "static/media/arrow-narrow.svg": "/demo_gh_build/static/media/arrow-narrow.3c5886b0a74ab0faa48e.svg",
+    "static/media/tailwind.svg": "/demo_gh_build/static/media/tailwind.b6ac93fbe4b7341aecf4a4b384224056.svg",
+    "static/media/html5.svg": "/demo_gh_build/static/media/html5.5a388de592bdf7a6f44ae2acc154efbc.svg",
+    "main.4dd2ae3d.css.map": "/demo_gh_build/static/css/main.4dd2ae3d.css.map",
+    "main.782216ff.js.map": "/demo_gh_build/static/js/main.782216ff.js.map",
+    "787.128fc6e9.chunk.js.map": "/demo_gh_build/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dd2ae3d.css",
+    "static/js/main.782216ff.js"
+  ]
+}
